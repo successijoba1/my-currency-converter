@@ -2,7 +2,7 @@
 function convert() {
     var insert = document.getElementById('insert');
     var result = document.getElementById('output');
-    var sum = insert.value/743
+    var sum = insert.value/1500
         result.innerHTML = sum
 }
 // insert.addEventListener('keydown',()=>{
